@@ -14,30 +14,35 @@ https://play.google.com/store/apps/details?id=com.TeamDot.RandomDefense&hl=ko
 
 ---
 
->창업동아리 프로젝트
+> 창업동아리 프로젝트
 
 제작 인원: 5명
 
->개요
+> 개요
 
-게임 명 : 용병 랜덤 디펜스
-개발 툴 : Unity, Visual Studio 2017
-개발 언어 : C#
-플랫폼 : android
-Google PlayStore 서비스 유무 : 유
+- 게임 명 : 용병 랜덤 디펜스
+- 개발 툴 : Unity, Visual Studio Code
+- 개발 언어 : C#
+- 플랫폼 : android
+- Google PlayStore 서비스 유무 : 유
 
->제작 기간
+> 제작 기간
 
 2019.02 ~ 2019.06
 
 >맡은 역할
 
-퀘스트 시스템 
-퀘스트 UI 
-접두사 시스템
-접두사에 따른 능력치 조절
-스킬 
-기본 맵 제작
+- 퀘스트 시스템 
+
+- 퀘스트 UI 
+
+- 접두사 시스템
+
+- 접두사에 따른 능력치 조절
+
+- 스킬 
+
+- 기본 맵 제작
 
 ---
 
