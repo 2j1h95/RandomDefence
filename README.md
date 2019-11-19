@@ -19,6 +19,7 @@ https://play.google.com/store/apps/details?id=com.TeamDot.RandomDefense&hl=ko
 제작 인원: 5명
 
 >개요
+
 게임 명 : 용병 랜덤 디펜스
 개발 툴 : Unity, Visual Studio 2017
 개발 언어 : C#
