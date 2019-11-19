@@ -1,7 +1,7 @@
 # RandomDefence
 # 용병 랜덤 디팬스 
 
-![title][./Image/Title.png]
+![title](./Image/Title.png)
 
 https://play.google.com/store/apps/details?id=com.TeamDot.RandomDefense&hl=ko 
 
