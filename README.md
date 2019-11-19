@@ -28,7 +28,8 @@ https://play.google.com/store/apps/details?id=com.TeamDot.RandomDefense&hl=ko
 
 > 제작 기간
 
-2019.02 ~ 2019.06
+- 2018.04 ~ 2019.01 (유니티 학습, 프로토타입 제작)
+- 2019.02 ~ 2019.06 (완전 개발 집중기간)
 
 >맡은 역할
 
