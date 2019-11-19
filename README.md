@@ -1,2 +1,11 @@
 # RandomDefence
-용병랜덤디팬스의 제가 작성한 부분들을 모았습니다 
+# 용병 랜덤 디팬스 
+
+![title][./Image/Title.png]
+
+https://play.google.com/store/apps/details?id=com.TeamDot.RandomDefense&hl=ko 
+
+직접 다운로드 해서 해볼 수 있습니다.
+
+## 
+
